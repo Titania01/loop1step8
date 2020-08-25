@@ -79,3 +79,8 @@ body, html {
   margin-top: 12vh;
   margin-left: 1vw;
 }
+
+.name {
+  margin: 3vh 6vw;
+  font-size: 20px;
+}
